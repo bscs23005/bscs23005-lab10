@@ -1,0 +1,106 @@
+.btn {
+    align-self: center;
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+.boxu {
+    height: 500px;
+    width: 100%;
+    background-color:#CBC3E3;
+    border: 1px outset black;
+    border-radius: 2%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+}
+
+
+#center{text-align: center;}
+
+.ponk{
+    color: pink;
+}
+.ponk:hover{
+    background-color: grey;
+    color: pink;
+    height: 50px;
+    width: 100px;
+    border: 1px outset pink;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+  /* Green */
+  .success {
+    color: green;
+  }
+#body{
+    background-color: lightgrey;
+    text-align: center;
+}
+#body2{
+    background-color: lightslategray;
+    text-align: center;
+} 
+  .success:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  /* Blue */
+  .info {
+    color: dodgerblue;
+  }
+  
+  .info:hover {
+    background: #2196F3;
+    color: white;
+  }
+  
+  /* Orange */
+  .warning {
+    color: rgb(35, 112, 62);
+    text-align: center;
+  }
+  
+  .warning:hover {
+    background: black;
+    color: white;
+    text-align: center;
+  }
+  #warning {
+    color: black;
+    text-align: center;
+    font-size: larger;
+  }
+  
+  #warning:hover {
+    background: black;
+    color: white;
+    text-align: center;
+  }
+  
+  /* Red */
+  .danger {
+    color: red;
+  }
+  
+  .danger:hover {
+    background: #f44336;
+    color: white;
+  }
+  
+  /* Gray */
+  .default {
+    color: black;
+  }
+  
+  .default:hover {
+    background: #e7e7e7;
+  }
